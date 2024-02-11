@@ -6,6 +6,7 @@ Welcome to the Simon Memory Game! This is a fun and interactive memory game buil
 
 ## Live Demo
 You can play the game here.
+memory-enhancing-simon-game.netlify.app
 ## Features
 - **Interactive Design**: The game has a user-friendly interface that is responsive and works well on different devices.
 - **High Score Tracking**: Keep track of your high scores and challenge yourself to beat them!
